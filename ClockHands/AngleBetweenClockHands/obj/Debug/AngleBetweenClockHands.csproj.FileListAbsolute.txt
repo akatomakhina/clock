@@ -1,0 +1,9 @@
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\obj\Debug\AngleBetweenClockHands.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\bin\Debug\AngleBetweenClockHands.exe.config
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\bin\Debug\AngleBetweenClockHands.exe
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\bin\Debug\AngleBetweenClockHands.pdb
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\obj\Debug\AngleBetweenClockHands.exe
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\obj\Debug\AngleBetweenClockHands.pdb
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\bin\Debug\log4net.dll
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\bin\Debug\log4net.xml
+c:\users\user\source\repos\ClockHands\AngleBetweenClockHands\obj\Debug\AngleBetweenClockHands.csproj.CopyComplete
